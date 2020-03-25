@@ -12,8 +12,8 @@ Health economic evaluation models have traditionally been built in Microsoft Exc
 
 ### Repository Description:
 
-This repository contains the two functions which were referred to in the text not included in the manuscript:
+This repository contains the extended data, the two functions which were referred to in the text but not included in the manuscript:
 
-- f_gen_psa  A function 
+- f_gen_psa 
 
 - f_MM_sicksicker
