@@ -6,17 +6,18 @@
 # Description: ShinyApp ui and server function - as in publication
 # ============== #
 
-# Install packages if necessary:
+# Setup ----
 
-# install.packages("shiny") # necessary if you don't already have the function 'shiny' installed.
-# install.packages("truncnorm") # install package if haven't already.
+rm(list= ls()) # clear objects from workspace
 
-# load packages from library once installed
+# install.packages("shiny")     # only necessary once if you don't already have the function 'shiny' installed.
+# install.packages("truncnorm") # only necessary once if you don't already have the function 'truncnorm' installed.
 
-library(truncnorm)  # load the package truncnorm
+# load packages from library
+library(truncnorm)
 library(shiny)             
 
-# source functions.
+# source functions
 source("f_gen_psa.R")
 source("f_MM_sicksicker.R")
 source("f_wrapper.R")
@@ -182,5 +183,5 @@ server <- function(input, output){
 } # Server end
 
 
-# Running the App
+# Running the App ----
 shinyApp(ui, server)

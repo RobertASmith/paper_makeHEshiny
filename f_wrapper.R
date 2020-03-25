@@ -19,7 +19,7 @@ f_wrapper <- function(
   # maximum age of follow up
   n_age_max  = 110,
   # discount rate for costs and QALYS 
-  d_r     = 0.035,
+  d_r = 0.035,
   # number of simulations
   n_sim   = 1000,
   # cost of treatment
@@ -27,6 +27,10 @@ f_wrapper <- function(
   
 ){
   
+  # need to specify environment of inner functions (to use outer function enviroment)
+  # alternatively - define functions within the wrapper function.
+  environment(f_gen_psa)         <- environment()
+  environment(f_MM_sicksicker)   <- environment()
   
   #-- Unadjustable inputs --#
   
