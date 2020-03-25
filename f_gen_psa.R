@@ -7,7 +7,6 @@
 # ==============
 
 
-
 f_gen_psa <- function(n_sim = 1000, c_Trt = 50){
   
   df_psa <- data.frame(
