@@ -1,3 +1,13 @@
+# ==============
+# Robert Smith & Paul Schneider
+# University of Sheffield
+# contact: rasmith3@sheffield.ac.uk
+# Project: Making health economics Shiny: a tutorial
+# Description: Generate Probabilistic (Sensitivity) Analysis inputs function - as in publication
+# ==============
+
+
+
 f_gen_psa <- function(n_sim = 1000, c_Trt = 50){
   
   df_psa <- data.frame(

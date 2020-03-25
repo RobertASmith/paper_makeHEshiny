@@ -1,3 +1,15 @@
+# ==============
+# Robert Smith & Paul Schneider
+# University of Sheffield
+# contact: rasmith3@sheffield.ac.uk
+# Project: Making health economics Shiny: a tutorial
+# Description: Wrapper Function as in publication
+# ==============
+
+
+
+
+
 f_wrapper <- function(
   
   #-- User adjustable inputs --#

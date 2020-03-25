@@ -1,3 +1,14 @@
+# ==============
+# Robert Smith & Paul Schneider
+# University of Sheffield
+# contact: rasmith3@sheffield.ac.uk
+# Project: Making health economics Shiny: a tutorial
+# Description: Deterministic model function - as in publication
+# ==============
+
+
+
+
 f_MM_sicksicker <- function(params) {
   # run following code with a set of data 
   with(as.list(params), {
