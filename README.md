@@ -14,6 +14,11 @@ Health economic evaluation models have traditionally been built in Microsoft Exc
 
 This repository contains the extended data, the two functions which were referred to in the text but not included in the manuscript:
 
-- f_gen_psa 
+f_gen_psa: Generates PSAs 
 
-- f_MM_sicksicker
+f_MM_sicksicker: Runs model for one set of PSA inputs
+
+f_wrapper: Model wrapper used in Shiny app
+
+shinyApp: Shiny application user interface and server function.
+
