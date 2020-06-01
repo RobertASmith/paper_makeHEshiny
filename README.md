@@ -1,6 +1,12 @@
 ## Making health economic models Shiny: A tutorial
 
-Robert Smith and Paul Schneider
+This is the repo for the paper [Making health economic models Shiny: A tutorial](https://wellcomeopenresearch.org/articles/5-69) published in Wellcome Open Research and currently under peer review.
+
+This can be cited as: 
+
+Smith R and Schneider P. Making health economic models Shiny: A tutorial [version 1; peer review: awaiting peer review]. Wellcome Open Res 2020, 5:69 (https://doi.org/10.12688/wellcomeopenres.15807.1)
+
+Authors: Robert Smith and Paul Schneider
 
 School of Health and Related Research, University of Sheffield, Regents Court, Sheffield, S1 4DA, UK
 
@@ -12,7 +18,7 @@ Health economic evaluation models have traditionally been built in Microsoft Exc
 
 ### Repository Description:
 
-This repository contains the extended data, the two functions which were referred to in the text but not included in the manuscript:
+This repository contains the extended data and the two functions which were referred to in the text but not included in the manuscript:
 
 f_gen_psa: Generates PSAs 
 
