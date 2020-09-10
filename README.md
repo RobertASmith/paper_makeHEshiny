@@ -9,15 +9,15 @@
 
 
 
-This is the repo for the paper [Making health economic models Shiny: A tutorial](https://wellcomeopenresearch.org/articles/5-69) published in Wellcome Open Research and currently under peer review.
+This is the repo for the paper [Making health economic models Shiny: A tutorial](https://wellcomeopenresearch.org/articles/5-69/v2) published in Wellcome Open Research.
 
 This can be cited as: 
 
-Smith R and Schneider P. Making health economic models Shiny: A tutorial. Wellcome Open Res 2020, 5:69 (https://doi.org/10.12688/wellcomeopenres.15807.1)
+Smith R and Schneider P. Making health economic models Shiny: A tutorial. Wellcome Open Res 2020, 5:69 (https://doi.org/10.12688/wellcomeopenres.15807.2)
 
 Authors: [Robert Smith](https://www.linkedin.com/in/robert-smith-53b28438) and [Paul Schneider](https://www.sheffield.ac.uk/scharr/staff-pgrs/studentprofiles/paulschneider)
 
-School of Health and Related Research, University of Sheffield, Regents Court, Sheffield, S1 4DA, UK
+Institution: School of Health and Related Research, University of Sheffield, Regents Court, Sheffield, S1 4DA, UK
 
 Corresponding author: Robert Smith (rasmith3@sheffield.ac.uk)
 
@@ -39,5 +39,6 @@ f_wrapper: Model wrapper used in Shiny app
 
 shinyApp: Shiny application user interface and server function.
 
-Funding: Rob and Paul are joint funded by the Wellcome Trust Doctoral Training Centre in Public Health Economics and Decision Science [108903] and the University of Sheffield.
+### Funding: 
+Rob and Paul are joint funded by the Wellcome Trust Doctoral Training Centre in Public Health Economics and Decision Science [108903] and the University of Sheffield.
 
