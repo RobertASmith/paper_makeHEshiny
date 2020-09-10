@@ -6,6 +6,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/RobertASmith/paper_makeHEshiny?style=plastic)
 ![GitHub repo size](https://img.shields.io/github/repo-size/RobertASmith/paper_makeHEshiny?style=plastic)
 [![GitHub forks](https://img.shields.io/github/forks/RobertASmith/paper_makeHEshiny?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/RobertASmith/paper_makeHEshiny/network/)
+<br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3730897.svg)](https://doi.org/10.5281/zenodo.3730897)
 
 
 
