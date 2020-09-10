@@ -1,16 +1,27 @@
 ## Making health economic models Shiny: A tutorial
 
+[![GitHub release](https://img.shields.io/badge/R-HEDS-green)](https://img.shields.io/badge/R-hello-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/RobertASmith/paper_makeHEshiny?color=red&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/RobertASmith/paper_makeHEshiny?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/RobertASmith/paper_makeHEshiny?style=plastic)
+[![GitHub forks](https://img.shields.io/github/forks/RobertASmith/paper_makeHEshiny?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/RobertASmith/paper_makeHEshiny/network/)
+
+
+
 This is the repo for the paper [Making health economic models Shiny: A tutorial](https://wellcomeopenresearch.org/articles/5-69) published in Wellcome Open Research and currently under peer review.
 
 This can be cited as: 
 
-Smith R and Schneider P. Making health economic models Shiny: A tutorial [version 1; peer review: awaiting peer review]. Wellcome Open Res 2020, 5:69 (https://doi.org/10.12688/wellcomeopenres.15807.1)
+Smith R and Schneider P. Making health economic models Shiny: A tutorial. Wellcome Open Res 2020, 5:69 (https://doi.org/10.12688/wellcomeopenres.15807.1)
 
-Authors: Robert Smith and Paul Schneider
+Authors: [Robert Smith](https://www.linkedin.com/in/robert-smith-53b28438) and [Paul Schneider](https://www.sheffield.ac.uk/scharr/staff-pgrs/studentprofiles/paulschneider)
 
 School of Health and Related Research, University of Sheffield, Regents Court, Sheffield, S1 4DA, UK
 
 Corresponding author: Robert Smith (rasmith3@sheffield.ac.uk)
+
+Website: [Dark Peak Analytics](https://www.darkpeakanalytics.com)
 
 ### Abstract
 
@@ -27,4 +38,6 @@ f_MM_sicksicker: Runs model for one set of PSA inputs
 f_wrapper: Model wrapper used in Shiny app
 
 shinyApp: Shiny application user interface and server function.
+
+Funding: Rob and Paul are joint funded by the Wellcome Trust Doctoral Training Centre in Public Health Economics and Decision Science [108903] and the University of Sheffield.
 
