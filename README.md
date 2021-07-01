@@ -17,7 +17,7 @@ This can be cited as:
 
 Smith R and Schneider P. Making health economic models Shiny: A tutorial. Wellcome Open Res 2020, 5:69 (https://doi.org/10.12688/wellcomeopenres.15807.2)
 
-Authors: [Robert Smith](https://www.linkedin.com/in/robert-smith-53b28438) and [Paul Schneider](https://www.sheffield.ac.uk/scharr/staff-pgrs/studentprofiles/paulschneider)
+Authors: [Robert Smith](https://www.linkedin.com/in/robert-smith-53b28438) and [Paul Schneider](https://bitowaqr.github.io/)
 
 Institution: School of Health and Related Research, University of Sheffield, Regents Court, Sheffield, S1 4DA, UK
 
